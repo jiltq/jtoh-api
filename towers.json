@@ -5,5 +5,12 @@
     "location": "Zone 6",
     "difficulty": "Challenging",
     "placeId": "5452225265"
+  },
+  {
+    "name": "Tower of Micro Management",
+    "type": "Tower",
+    "location": "Zone 6",
+    "difficulty": "Terrifying",
+    "placeId": "6408458085"
   }
 ]
