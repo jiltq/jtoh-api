@@ -106,6 +106,33 @@
       "placeId": "7972342515",
       "towerRegion": "Intermediate",
       "abbreviation": "ToAS"
+    },
+    {
+      "name": "Tower of Conflicting Frontiers",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Difficult",
+      "placeId": "5614736483",
+      "towerRegion": "Beginner",
+      "abbreviation": "ToCF"
+    },
+    {
+      "name": "Tower of Rock Climbing",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Difficult",
+      "placeId": "7991263285",
+      "towerRegion": "Beginner",
+      "abbreviation": "ToRC"
+    },
+    {
+      "name": "Tower of Foreign Domains",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Hard",
+      "placeId": "8013462538",
+      "towerRegion": "Beginner",
+      "abbreviation": "ToFD"
     }
   ]
 }
