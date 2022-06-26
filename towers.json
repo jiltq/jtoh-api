@@ -14,7 +14,8 @@
       "location": "Zone 6",
       "difficulty": "Challenging",
       "placeId": "5452225265",
-      "towerRegion": "Citadel"
+      "towerRegion": "Citadel",
+      "abbreviation": "CoTaW"
     },
     {
       "name": "Tower of Micro Management",
@@ -22,7 +23,8 @@
       "location": "Zone 6",
       "difficulty": "Terrifying",
       "placeId": "6408458085",
-      "towerRegion": "Unsafe"
+      "towerRegion": "Unsafe",
+      "abbreviation": "ToMM"
     }
   ]
 }
