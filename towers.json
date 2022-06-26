@@ -61,6 +61,24 @@
       "placeId": "6858434439",
       "towerRegion": "Unsafe",
       "abbreviation": "ToAF"
+    },
+    {
+      "name": "Tower of Hazardous Laddering",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Intense",
+      "placeId": "7221958470",
+      "towerRegion": "Advanced",
+      "abbreviation": "ToHL"
+    },
+    {
+      "name": "Tower of Watts",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Intense",
+      "placeId": "6937558209",
+      "towerRegion": "Advanced",
+      "abbreviation": "ToW"
     }
   ]
 }
