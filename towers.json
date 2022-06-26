@@ -25,6 +25,15 @@
       "placeId": "6408458085",
       "towerRegion": "Crushing",
       "abbreviation": "ToMM"
+    },
+    {
+      "name": "Tower of The Dripping Amalgam",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Extreme",
+      "placeId": "7001541927",
+      "towerRegion": "Crushing",
+      "abbreviation": "ToTDA"
     }
   ]
 }
