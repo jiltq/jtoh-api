@@ -79,6 +79,33 @@
       "placeId": "6937558209",
       "towerRegion": "Advanced",
       "abbreviation": "ToW"
+    },
+    {
+      "name": "Break It, Buy It",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Challenging",
+      "placeId": "6774790684",
+      "towerRegion": "Intermediate",
+      "abbreviation": "ToBIBI"
+    },
+    {
+      "name": "Tower of Hefty Magnitude",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Challenging",
+      "placeId": "7415021580",
+      "towerRegion": "Intermediate",
+      "abbreviation": "ToHM"
+    },
+    {
+      "name": "Tower of Angled Scenery",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Challenging",
+      "placeId": "7972342515",
+      "towerRegion": "Intermediate",
+      "abbreviation": "ToAS"
     }
   ]
 }
