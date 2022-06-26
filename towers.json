@@ -34,6 +34,33 @@
       "placeId": "7001541927",
       "towerRegion": "Crushing",
       "abbreviation": "ToTDA"
+    },
+    {
+      "name": "Tower of Brief Challenges",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Remorseless",
+      "placeId": "6347821389",
+      "towerRegion": "Unsafe",
+      "abbreviation": "ToBC"
+    },
+    {
+      "name": "Tower of Massive Overheating",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Remorseless",
+      "placeId": "6207579273",
+      "towerRegion": "Unsafe",
+      "abbreviation": "ToMO"
+    },
+    {
+      "name": "Tower of Astral Fusion",
+      "type": "Tower",
+      "location": "Zone 6",
+      "difficulty": "Remorseless",
+      "placeId": "6858434439",
+      "towerRegion": "Unsafe",
+      "abbreviation": "ToAF"
     }
   ]
 }
