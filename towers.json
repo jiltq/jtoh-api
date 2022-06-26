@@ -3,7 +3,8 @@
     "Easy": [91, 154, 76]
   },
   "locations": {
-    
+    "Inferno": ["Ring 1", "Ring 2", "Ring 3", "Ring 4", "Ring 5", "Ring 6", "Ring 7", "Ring 8", "Ring 9"],
+    "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6"]
   },
   "orders": {
     "Zone": [
