@@ -1,6 +1,9 @@
 {
   "difficultyColors": {
-    "Easy": [91, 154, 76],
+    "Easy": [91, 154, 76]
+  },
+  "locations": {
+    
   },
   "orders": {
     "Zone": [
