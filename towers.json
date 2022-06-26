@@ -13,14 +13,16 @@
       "type": "Citadel",
       "location": "Zone 6",
       "difficulty": "Challenging",
-      "placeId": "5452225265"
+      "placeId": "5452225265",
+      "towerRegion": "Citadel"
     },
     {
       "name": "Tower of Micro Management",
       "type": "Tower",
       "location": "Zone 6",
       "difficulty": "Terrifying",
-      "placeId": "6408458085"
+      "placeId": "6408458085",
+      "towerRegion": "Unsafe"
     }
   ]
 }
