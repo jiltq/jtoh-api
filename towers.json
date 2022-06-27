@@ -10,13 +10,12 @@
   "features": [
     {
       "name": "🌎 Worlds",
-      "type": "container",
       "children": [
         {
           "name": "🔥 The Great Inferno",
           "children": [
             {
-              "name": "Ring 1",
+              "name": "☁️ Ring 1",
               "children": [
             
               ]
