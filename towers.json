@@ -7,6 +7,21 @@
     "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6", "Zone 7"],
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll"]
   },
+  "locations3": [
+    {
+      "name": "The Great Inferno",
+      "type": "World",
+      "children": [
+        {
+          "name": "Ring 1",
+          "type": "Ring",
+          "children": [
+            
+          ]
+        }
+      ]
+    }
+  ],
   "locations2": {
     "The Great Inferno": {
       "Ring 1": [
