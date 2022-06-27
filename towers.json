@@ -16,7 +16,12 @@
           "name": "🔥 The Great Inferno",
           "type": "World",
           "children": [
+            {
+              "name": "Ring 1",
+              "children": [
             
+              ]
+            }
           ]
         }
       ]
