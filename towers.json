@@ -7,6 +7,25 @@
     "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6", "Zone 7"],
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll"]
   },
+  "locations2": {
+    "The Great Inferno": {
+      
+    },
+    "The Spatial System": {
+      "Zone 6": [
+        {
+          "name": "Citadel of Twists and Weirdness",
+          "location": "Zone 6",
+          "difficulty": "Challenging",
+          "place": "5452225265",
+          "category": "Citadel"
+        }
+      ]
+    },
+    "Subrealms": {
+      
+    }
+  },
   "towers": [
     {
       "name": "Citadel of Twists and Weirdness",
