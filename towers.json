@@ -7,24 +7,27 @@
     "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6", "Zone 7"],
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll"]
   },
-  "features": [
-    {
-      "name": "🌎 Worlds",
-      "children": [
-        {
-          "name": "🔥 The Great Inferno",
-          "children": [
-            {
-              "name": "☁️ Ring 1",
-              "children": [
+  "features": {
+    "name": "JToH Practice Center",
+    "children": [
+      {
+        "name": "🌎 Worlds",
+        "children": [
+          {
+            "name": "🔥 The Great Inferno",
+            "children": [
+              {
+                "name": "☁️ Ring 1",
+                "children": [
             
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
   "locations3": [
     {
       "name": "The Great Inferno",
