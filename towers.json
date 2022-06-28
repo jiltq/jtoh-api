@@ -110,43 +110,37 @@
       "name": "Citadel of Corporate Enterprise",
       "location": "Zone 5",
       "difficulty": "nil",
-      "placeId": "0",
-      "abbreviation": "CoCE"
+      "placeId": "-1",
     },
     {
       "name": "Tower of Alien Radiance",
       "location": "Zone 5",
       "difficulty": "nil",
-      "placeId": "0",
-      "abbreviation": "ToAR"
+      "placeId": "-1",
     },
     {
       "name": "Tower of Polychromatic Zero",
       "location": "Zone 5",
       "difficulty": "nil",
-      "placeId": "0",
-      "abbreviation": "ToPZ"
+      "placeId": "-1",
     },
     {
       "name": "Tower of Zany Architecture",
       "location": "Zone 5",
       "difficulty": "nil",
-      "placeId": "0",
-      "abbreviation": "ToZA"
+      "placeId": "-1",
     },
     {
       "name": "Tower of Brutal and Bizarre Torment",
       "location": "Zone 5",
       "difficulty": "nil",
-      "placeId": "0",
-      "abbreviation": "ToBaBT"
+      "placeId": "-1",
     },
     {
       "name": "Tower of Horrifying Experiences",
       "location": "Zone 5",
       "difficulty": "nil",
-      "placeId": "0",
-      "abbreviation": "ToHE"
+      "placeId": "-1",
     }
   ]
 }
