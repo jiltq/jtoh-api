@@ -109,37 +109,37 @@
     {
       "name": "Citadel of Corporate Enterprise",
       "location": "Zone 5",
-      "difficulty": "nil",
+      "difficulty": "Intense",
       "placeId": "-1"
     },
     {
       "name": "Tower of Alien Radiance",
       "location": "Zone 5",
-      "difficulty": "nil",
+      "difficulty": "Terrifying",
       "placeId": "-1"
     },
     {
       "name": "Tower of Polychromatic Zero",
       "location": "Zone 5",
-      "difficulty": "nil",
+      "difficulty": "Insane",
       "placeId": "-1"
     },
     {
       "name": "Tower of Zany Architecture",
       "location": "Zone 5",
-      "difficulty": "nil",
+      "difficulty": "Remorseless",
       "placeId": "-1"
     },
     {
       "name": "Tower of Brutal and Bizarre Torment",
       "location": "Zone 5",
-      "difficulty": "nil",
+      "difficulty": "Remorseless",
       "placeId": "-1"
     },
     {
       "name": "Tower of Horrifying Experiences",
       "location": "Zone 5",
-      "difficulty": "nil",
+      "difficulty": "Intense",
       "placeId": "-1"
     }
   ]
