@@ -28,7 +28,8 @@
     {
       "name": "Tower of Brief Challenges",
       "difficulty": "Remorseless",
-      "placeId": "6347821389"
+      "placeId": "6347821389",
+      "modelId": 6574077370
     },
     {
       "name": "Tower of Massive Overheating",
