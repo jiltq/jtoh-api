@@ -89,17 +89,17 @@
       {
         "name": "Tower of Alien Radiance",
         "difficulty": "Terrifying",
-        "placeId": "-1"
+        "placeId": "6558167126"
       },
       {
         "name": "Tower of Polychromatic Zero",
         "difficulty": "Insane",
-        "placeId": "-1"
+        "placeId": "6582690712"
       },
       {
         "name": "Tower of Zany Architecture",
         "difficulty": "Remorseless",
-        "placeId": "-1"
+        "placeId": "6680792638"
       },
       {
         "name": "Tower of Brutal and Bizarre Torment",
@@ -109,6 +109,51 @@
       {
         "name": "Tower of Horrifying Experiences",
         "difficulty": "Intense",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Anticlimatic Outcomes",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Guided Trials",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Heiwana Kaze",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Unhealthy Escalation",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Stairs to Spare",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Fractal Volution",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Bright Serenity",
+        "difficulty": "nil",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Super Stupid Security Systems",
+        "difficulty": "Hard",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Sovereign Traveling",
+        "difficulty": "Medium",
         "placeId": "-1"
       }
     ]
