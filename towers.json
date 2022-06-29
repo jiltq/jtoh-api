@@ -7,6 +7,140 @@
     "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6", "Zone 7"],
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll"]
   },
+  "towersInLocation": {
+    "Zone 6": [
+      {
+      "name": "Citadel of Twists and Weirdness",
+      "location": "Zone 6",
+      "difficulty": "Challenging",
+      "placeId": "5452225265",
+      "abbreviation": "CoTaW"
+    },
+    {
+      "name": "Tower of Micro Management",
+      "location": "Zone 6",
+      "difficulty": "Terrifying",
+      "placeId": "6408458085",
+      "abbreviation": "ToMM"
+    },
+    {
+      "name": "Tower of The Dripping Amalgam",
+      "location": "Zone 6",
+      "difficulty": "Extreme",
+      "placeId": "7001541927",
+      "abbreviation": "ToTDA"
+    },
+    {
+      "name": "Tower of Brief Challenges",
+      "location": "Zone 6",
+      "difficulty": "Remorseless",
+      "placeId": "6347821389",
+      "abbreviation": "ToBC"
+    },
+    {
+      "name": "Tower of Massive Overheating",
+      "location": "Zone 6",
+      "difficulty": "Remorseless",
+      "placeId": "6207579273",
+      "abbreviation": "ToMO"
+    },
+    {
+      "name": "Tower of Astral Fusion",
+      "location": "Zone 6",
+      "difficulty": "Remorseless",
+      "placeId": "6858434439",
+      "abbreviation": "ToAF"
+    },
+    {
+      "name": "Tower of Hazardous Laddering",
+      "location": "Zone 6",
+      "difficulty": "Intense",
+      "placeId": "7221958470",
+      "abbreviation": "ToHL"
+    },
+    {
+      "name": "Tower of Watts",
+      "location": "Zone 6",
+      "difficulty": "Intense",
+      "placeId": "6937558209",
+      "abbreviation": "ToW"
+    },
+    {
+      "name": "Tower of Break It, Buy It",
+      "location": "Zone 6",
+      "difficulty": "Challenging",
+      "placeId": "6774790684",
+      "abbreviation": "ToBIBI"
+      },
+      {
+        "name": "Tower of Hefty Magnitude",
+        "location": "Zone 6",
+        "difficulty": "Challenging",
+        "placeId": "7415021580",
+        "abbreviation": "ToHM"
+      },
+      {
+        "name": "Tower of Angled Scenery",
+        "location": "Zone 6",
+        "difficulty": "Challenging",
+        "placeId": "7972342515",
+        "abbreviation": "ToAS"
+      },
+      {
+        "name": "Tower of Conflicting Frontiers",
+        "location": "Zone 6",
+        "difficulty": "Difficult",
+        "placeId": "5614736483",
+        "abbreviation": "ToCF"
+      },
+      {
+        "name": "Tower of Rock Climbing",
+        "location": "Zone 6",
+        "difficulty": "Difficult",
+        "placeId": "7991263285",
+        "abbreviation": "ToRC"
+      },
+      {
+        "name": "Tower of Foreign Domains",
+        "location": "Zone 6",
+        "difficulty": "Hard",
+        "placeId": "8013462538",
+        "abbreviation": "ToFD"
+      }
+    ],
+    "Zone 5": [
+      {
+        "name": "Citadel of Corporate Enterprise",
+        "difficulty": "Intense",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Alien Radiance",
+        "difficulty": "Terrifying",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Polychromatic Zero",
+        "difficulty": "Insane",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Zany Architecture",
+        "difficulty": "Remorseless",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Brutal and Bizarre Torment",
+        "difficulty": "Remorseless",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Horrifying Experiences",
+        "difficulty": "Intense",
+        "placeId": "-1"
+      }
+    ]
+  },
   "towers": [
     {
       "name": "Citadel of Twists and Weirdness",
