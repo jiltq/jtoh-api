@@ -10,10 +10,11 @@
   "towersInLocation": {
     "Zone 6": [
       {
-      "name": "Citadel of Twists and Weirdness",
-      "difficulty": "Challenging",
-      "placeId": "5452225265"
-    },
+        "name": "Citadel of Twists and Weirdness",
+        "difficulty": "Challenging",
+        "placeId": "5452225265",
+        "creators": ["Array"]
+      },
     {
       "name": "Tower of Micro Management",
       "difficulty": "Terrifying",
