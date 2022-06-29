@@ -235,6 +235,33 @@
         "difficulty": "Easy",
         "placeId": "-1"
       }
+    ],
+    "Garden of Eeshöl": [
+      {
+        "name": "Tower of Perilous Antipode",
+        "difficulty": "Intense",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Buoyant Automations",
+        "difficulty": "Intense",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Flourishing Wastelands",
+        "difficulty": "Challenging",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Various Vivariums",
+        "difficulty": "Difficult",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Feudal Foliage",
+        "difficulty": "Difficult",
+        "placeId": "-1"
+      }
     ]
   }
 }
