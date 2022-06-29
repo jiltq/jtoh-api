@@ -135,8 +135,8 @@
       },
       {
         "name": "Tower of Stairs to Spare",
-        "difficulty": "nil",
-        "placeId": "-1"
+        "difficulty": "Challenging",
+        "placeId": "5921161541"
       },
       {
         "name": "Tower of Fractal Volution",
@@ -145,8 +145,8 @@
       },
       {
         "name": "Tower of Bright Serenity",
-        "difficulty": "nil",
-        "placeId": "-1"
+        "difficulty": "Difficult",
+        "placeId": "4984049089"
       },
       {
         "name": "Tower of Super Stupid Security Systems",
@@ -208,12 +208,12 @@
       {
         "name": "Steeple of Low Woe",
         "difficulty": "Hard",
-        "placeId": "-1"
+        "placeId": "5318261302"
       },
       {
         "name": "Steeple of Uninstalling Roblox",
         "difficulty": "Hard",
-        "placeId": "-1"
+        "placeId": "5330559169"
       },
       {
         "name": "Tower of Versatility",
