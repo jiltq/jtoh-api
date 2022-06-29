@@ -4,7 +4,7 @@
   },
   "locations": {
     "Inferno": ["Ring 1", "Ring 2", "Ring 3", "Ring 4", "Ring 5", "Ring 6", "Ring 7", "Ring 8", "Ring 9"],
-    "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6", "Zone 7"],
+    "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6"],
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll"]
   },
   "towersInLocation": {
@@ -154,6 +154,43 @@
       {
         "name": "Tower of Sovereign Traveling",
         "difficulty": "Medium",
+        "placeId": "-1"
+      }
+    ],
+    "Forgotten Ridge": [
+      {
+        "name": "Citadel of Weird Nostalgia",
+        "difficulty": "Intense",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Towering Pillars",
+        "difficulty": "Remorseless",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Dangerous Expeditions",
+        "difficulty": "Remorseless",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Increasing Stress",
+        "difficulty": "Intense",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Huge Pain",
+        "difficulty": "Challenging",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Climbing",
+        "difficulty": "Challening",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Immense Ire",
+        "difficulty": "Difficult",
         "placeId": "-1"
       }
     ]
