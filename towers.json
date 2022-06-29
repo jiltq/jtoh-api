@@ -194,6 +194,46 @@
         "name": "Tower of Immense Ire",
         "difficulty": "Difficult",
         "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Wall Punching",
+        "difficulty": "Difficult",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Triangular Covering",
+        "difficulty": "Difficult",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Low Woe",
+        "difficulty": "Hard",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Uninstalling Roblox",
+        "difficulty": "Hard",
+        "placeId": "-1"
+      },
+      {
+        "name": "Tower of Versatility",
+        "difficulty": "Hard",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Pursuit",
+        "difficulty": "Medium",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Meaningless Decisions",
+        "difficulty": "Easy",
+        "placeId": "-1"
+      },
+      {
+        "name": "Steeple of Jolly Good Fun",
+        "difficulty": "Easy",
+        "placeId": "-1"
       }
     ]
   }
