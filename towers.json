@@ -10,10 +10,20 @@
   "towersInLocation": {
     "Ring 1": [
       {
+        "name": "Thanos Tower",
+        "difficulty": "nil"
+      },
+      {
         "name": "Tower of True Skill",
         "difficulty": "Remorseless",
         "modelId": "3948459167",
         "creators": ["feodoric"]
+      },
+      {
+        "name": "Tower of Impossible Expectations",
+        "difficulty": "Intense",
+        "modelId": "3925370942",
+        "creators": ["ObrenTune", "awesomecoolpop"]
       },
       {
         "name": "Tower of Rage",
