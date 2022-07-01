@@ -10,6 +10,12 @@
   "towersInLocation": {
     "Ring 1": [
       {
+        "name": "Tower of True Skill",
+        "difficulty": "Remorseless",
+        "modelId": "3948459167",
+        "creators": ["feodoric"]
+      },
+      {
         "name": "Tower of Rage",
         "difficulty": "Difficult",
         "modelId": "3925340487",
