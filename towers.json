@@ -27,6 +27,18 @@
         "name": "Tower of Cold Hands",
         "difficulty": "Difficult",
         "creators": ["HilmNoobly"]
+      },
+      {
+        "name": "Tower of Traps",
+        "difficulty": "Challenging",
+        "creators": ["Paramockss"],
+        "placeId": "2214913544"
+      },
+      {
+        "name": "Tower of Falling and Failing",
+        "difficulty": "Challenging",
+        "creators": ["Hat_Rox"],
+        "placeId": "2314402334"
       }
     ],
     "Ring 3": [
@@ -35,6 +47,12 @@
         "difficulty": "Challenging",
         "modelId": "2417569950",
         "creators": ["ludovinci"]
+      },
+      {
+        "name": "Tower of Despair",
+        "difficulty": "Challenging",
+        "creators": ["ThenamesJEFF2", "TromboneeTimee"],
+        "placeId": "2281231935"
       }
     ],
     "Zone 1": [
