@@ -67,6 +67,12 @@
         "difficulty": "Hard",
         "placeId": "2576990312",
         "creators": ["snowius"]
+      },
+      {
+        "name": "Tower of Hand Sweating",
+        "difficulty": "Difficult",
+        "creators": ["ludovinci"],
+        "modelId": "2641998311"
       }
     ],
     "Zone 6": [
