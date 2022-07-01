@@ -243,22 +243,26 @@
       {
         "name": "Steeple of Climbing",
         "difficulty": "Challenging",
-        "placeId": "-1"
+        "placeId": "5315762030",
+        "creators": ["AzaZeall"]
       },
       {
         "name": "Tower of Immense Ire",
         "difficulty": "Difficult",
-        "placeId": "-1"
+        "placeId": "5715157128",
+        "creators": ["wllsknwlls"]
       },
       {
         "name": "Steeple of Wall Punching",
         "difficulty": "Difficult",
-        "placeId": "-1"
+        "placeId": "5219847021",
+        "creators": ["Paramockss"]
       },
       {
         "name": "Tower of Triangular Covering",
         "difficulty": "Difficult",
-        "placeId": "-1"
+        "placeId": "5445031206",
+        "creators": ["1fren6"]
       },
       {
         "name": "Steeple of Low Woe",
