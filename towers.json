@@ -8,6 +8,22 @@
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll"]
   },
   "towersInLocation": {
+    "Ring 3": [
+      {
+        "name": "Tower of Fatness",
+        "difficulty": "Challenging",
+        "modelId": "2417569950",
+        "creators": ["ludovinci"]
+      }
+    ],
+    "Zone 1": [
+      {
+        "name": "Tower of Peace",
+        "difficulty": "Hard",
+        "placeId": "2576990312",
+        "creators": ["snowius"]
+      }
+    ],
     "Zone 6": [
       {
         "name": "Citadel of Twists and Weirdness",
