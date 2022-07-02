@@ -111,7 +111,8 @@
     {
       "name": "Tower of Brief Challenges",
       "difficulty": "Remorseless",
-      "modelId": "6574077370"
+      "modelId": "6574077370",
+      "floorDifficulties": ["Remorseless", "Remorseless", "Remorseless", "Remorseless", "Intense", "Intense", "Intense", "Remorseless", "Remorseless", "Intense"]
     },
     {
       "name": "Tower of Massive Overheating",
