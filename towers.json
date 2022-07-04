@@ -11,7 +11,9 @@
     "Ring 1": [
       {
         "name": "Thanos Tower",
-        "difficulty": "nil"
+        "difficulty": "Insane",
+        "placeId": "2943477826",
+        "creators": ["ciel_azulsky"]
       },
       {
         "name": "Tower of True Skill",
