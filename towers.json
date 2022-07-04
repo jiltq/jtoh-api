@@ -97,6 +97,12 @@
         "difficulty": "Insane",
         "modelId": "7203252000",
         "creators": ["CrayZe50"]
+      },
+      {
+        "name": "Tower of Chaotic Moments",
+        "difficulty": "Remorseless",
+        "placeId": "3524463061",
+        "creators": ["Johnyianni"]
       }
     ],
     "Zone 6": [
