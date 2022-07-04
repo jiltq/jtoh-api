@@ -91,6 +91,14 @@
         "modelId": "2641998311"
       }
     ],
+    "Zone 2": [
+      {
+        "name": "Tower of Double Trouble",
+        "difficulty": "Insane",
+        "modelId": "7203252000",
+        "creators": ["CrayZe50"]
+      }
+    ],
     "Zone 6": [
       {
         "name": "Citadel of Twists and Weirdness",
