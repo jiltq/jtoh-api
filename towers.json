@@ -44,6 +44,11 @@
         "difficulty": "Difficult",
         "placeId": "2208824323",
         "creators": ["Hat_Rox"]
+      },
+      {
+        "name": "Tower of Killjoys",
+        "difficulty": "Hard",
+        "modelId": "6391418986"
       }
     ],
     "Ring 2": [
