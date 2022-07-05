@@ -10,9 +10,15 @@
   "towersInLocation": {
     "Ring 1": [
       {
+        "name": "Citadel of Laptop Splitting",
+        "difficulty": "Intense",
+        "modelId": "6361688444",
+        "creators": ["Jukereise"]
+      },
+      {
         "name": "Thanos Tower",
         "difficulty": "Insane",
-        "placeId": "2943477826",
+        "modelId": "6901043552",
         "creators": ["ciel_azulsky"]
       },
       {
