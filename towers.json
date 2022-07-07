@@ -115,7 +115,8 @@
         "name": "Tower of Chaotic Moments",
         "difficulty": "Remorseless",
         "modelId": "4217905350",
-        "creators": ["Johnyianni"]
+        "creators": ["Johnyianni"],
+        "toDoAfter": ["Citadel of Scythe Recognition", "Steeple of Towering Pillars", "Citadel of Contrasting Regions"]
       }
     ],
     "Zone 6": [
