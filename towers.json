@@ -141,7 +141,8 @@
       "difficulty": "Remorseless",
       "modelId": "6574077370",
       "floorDifficulties": ["Remorseless", "Remorseless", "Remorseless", "Remorseless", "Intense", "Intense", "Intense", "Remorseless", "Remorseless", "Intense"],
-      "creators": ["Kr6d"]
+      "creators": ["Kr6d"],
+      "toDoAfter": ["Steeple of Towering Pillars", "Tower of Verdant Entropy", "Tower of Yearning Victory"]
     },
     {
       "name": "Tower of Massive Overheating",
