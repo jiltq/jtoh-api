@@ -7,6 +7,17 @@
     "Spatial": ["Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6"],
     "Subrealms": ["Forgotten Ridge", "Garden of Eeshöl", "Paradise Atoll", "Arcane Area"]
   },
+  "smartProgression": {
+    "Badges": {
+      "Easy": 2125419249
+    },
+    "Easy": [
+      "MAT",
+      "ToSFU",
+      "ToZD",
+      "SoMD"
+    ]
+  },
   "towersInLocation": {
     "Ring 1": [
       {
