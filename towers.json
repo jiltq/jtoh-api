@@ -11,12 +11,14 @@
     "Badges": {
       "Easy": 2125419249
     },
-    "Easy": [
-      "MAT",
-      "ToSFU",
-      "ToZD",
-      "SoMD"
-    ]
+    "Easy": {
+      "MAT": 0,
+      "ToSFU": 0
+      "ToZD": 0
+      "SoMD": 0,
+      "SoBJ": 0,
+      "ToAST": 2125364300
+    }
   },
   "towersInLocation": {
     "Ring 1": [
