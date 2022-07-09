@@ -19,7 +19,9 @@
       "SoBJ": 0,
       "ToAST": 2125364300,
       "ToA": 2125364239,
-      "ToPHaT": 2125416824
+      "ToPHaT": 2125416824,
+      "SoDS": 0,
+      "PAT": 0
     }
   },
   "towersInLocation": {
