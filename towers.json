@@ -12,16 +12,11 @@
       "Easy": 2125419249
     },
     "Easy": {
-      "MAT": 0,
-      "ToSFU": 0,
-      "ToZD": 0,
-      "SoMD": 0,
-      "SoBJ": 0,
+      "Your journey begins here!": 0,
       "ToAST": 2125364300,
       "ToA": 2125364239,
       "ToPHaT": 2125416824,
       "SoDS": 0,
-      "PAT": 0
     }
   },
   "towersInLocation": {
